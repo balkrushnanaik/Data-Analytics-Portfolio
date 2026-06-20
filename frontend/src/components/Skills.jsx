@@ -6,7 +6,7 @@ const skillCategories = [
   {
     title: 'Programming Languages',
     icon: '{ }',
-    color: 'var(--neon-blue)',
+    color: '#00F5FF',
     skills: [
       { name: 'Python', pct: 85 },
       { name: 'SQL', pct: 90 },
@@ -17,7 +17,7 @@ const skillCategories = [
   {
     title: 'Data Analysis',
     icon: '📊',
-    color: 'var(--neon-purple)',
+    color: '#BC13FE',
     skills: [
       { name: 'Pandas', pct: 85 },
       { name: 'NumPy', pct: 80 },
@@ -29,7 +29,7 @@ const skillCategories = [
   {
     title: 'Visualization',
     icon: '📈',
-    color: 'var(--neon-cyan)',
+    color: '#06FFA5',
     skills: [
       { name: 'Power BI', pct: 87 },
       { name: 'Tableau', pct: 75 },
