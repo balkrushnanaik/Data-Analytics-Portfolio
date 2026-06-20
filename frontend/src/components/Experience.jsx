@@ -5,7 +5,7 @@ const experiences = [
   {
     role: 'UI/UX Designer Intern',
     company: 'TechnoGrowth Software Solutions Pvt Ltd',
-    duration: 'January 2026',
+    duration: 'December 2025 to January 2026',
     project: 'CareerHub iOS Application',
     type: 'Internship',
     color: '#00D4FF',

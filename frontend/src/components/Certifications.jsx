@@ -5,7 +5,7 @@ const certifications = [
   {
     title: 'Full Stack Development Program',
     provider: 'UpGrad',
-    year: '2024',
+    year: '2025',
     icon: '🚀',
     color: '#8B5CF6',
     gradient: 'from-purple-900 to-indigo-900',
@@ -15,11 +15,11 @@ const certifications = [
   {
     title: 'Data Analytics Job Simulation',
     provider: 'Deloitte Australia × Forage',
-    year: '2024',
+    year: '2026',
     icon: '📊',
     color: '#00D4FF',
     gradient: 'from-blue-900 to-cyan-900',
-    skills: ['Data Analysis', 'Excel', 'Business Insights', 'Visualization'],
+    skills: ['Data Analysis', 'Tableau', 'Business Insights', 'Visualization'],
     description: 'Industry-equivalent data analytics simulation — data cleaning, dashboard design, and business recommendations.',
   },
   {
